@@ -1,6 +1,9 @@
 # Skibound-main
  SkiingGameFInal
 
+ Ideja projekta:
+ 
+
 DAVID 
 Radi 3D modele i daje im teksture koristeći Blender.
 
