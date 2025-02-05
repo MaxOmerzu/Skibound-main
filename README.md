@@ -1,7 +1,7 @@
 # Skibound-main
  SkiingGameFInal
 
- Ideja projekta:
+ Ideja projekta: Skibound je video igra koja nudi iskustvo skijanja i utrkivanja na skijama. Sadrži jednostavne kontrole, sistem spremanja i učitavanja napredovanja, proceduralno generirane staze, te mogućnost prilagodbe skijaške opreme. Igra također podržava kontrolere, omogućujući igračima personalizirano i izazovno skijaško iskustvo.
  
 
 DAVID 
