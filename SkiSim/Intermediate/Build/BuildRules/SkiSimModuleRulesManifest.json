@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\Extracted\\Skibound-main\\SkiSim\\Intermediate\\Source\\SkiSim.Build.cs",
+		"D:\\Github\\Extracted\\Skibound-main\\SkiSim\\Intermediate\\Source\\SkiSim.Target.cs",
+		"D:\\Github\\Extracted\\Skibound-main\\SkiSim\\Intermediate\\Source\\SkiSimClient.Target.cs",
+		"D:\\Github\\Extracted\\Skibound-main\\SkiSim\\Intermediate\\Source\\SkiSimEditor.Target.cs",
+		"D:\\Github\\Extracted\\Skibound-main\\SkiSim\\Intermediate\\Source\\SkiSimServer.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}
